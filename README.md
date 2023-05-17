@@ -16,3 +16,8 @@ PS - it would be preferred if you select graphs from various sectors and thus th
 
 Since this isn't a lot of work we are setting deadline of 18th EOD. And for reference we are also sharing some yfinance resources.
 https://pypi.org/project/yfinance/
+
+Submission Guidelines:
+
+1) Upload your Python file to this repository.
+2) Ensure that the file name follows the format: Rollno_Name (e.g., 211142_ValaYash).
